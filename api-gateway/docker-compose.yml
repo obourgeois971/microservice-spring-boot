@@ -1,3 +1,4 @@
+# start keycloak with localhost:8181 admin/admin
 version: '3.3'
 services:
   keycloak-mysql:
